@@ -4,17 +4,14 @@ title: Research
 permalink: /research/
 ---
 
-# By Topic
-## Algorithms for Healthcare
-- P1
-- P2
-- P3
+# Algorithms for Healthcare
+- [Hotspots for Emerging Epidemics: Multi-Task and Transfer Learning over Mobility Networks](https://github.com/heart-analytics/COVID19-Hotspots)
+- [Control Of Epidemic Spreads Via Testing And Lock-Down](https://github.com/heart-analytics/COVID19-TestingAndLockDown)
 
-## Algorithmic Bias/Fairness in Healthcare
-- P4 
-- P5
-- P6
+# Algorithmic Bias/Fairness in Healthcare
+- Need example 
 
-## Healthcare Operations Management
-- P7
-- P8
+# Healthcare Operations Management
+- [Evaluation of reopening strategies for educational institutions during COVID-19 through agent based simulation](https://github.com/heart-analytics/COVID19-Reopening)
+- [Not All COVID-19 Waves are Similar: Origins, Detection and Mitigation Strategies for Simultaneous Waves](https://github.com/heart-analytics/COVID19-India)
+- How SHIELD Illinois can help keep educational institutions open amid COVID-19: An econometric and epidemiologic analysis of ‘Test-to-stay’ program
