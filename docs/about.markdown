@@ -10,7 +10,7 @@ We are a group of researchers that work on healthcare related topics. During the
 
 # Group Members
 
-- [Mehmet **Eren** Ahsen, Assistant Professor of Business Administration, UIUC](https://giesbusiness.illinois.edu/profile/mehmet-ahsen)
+- [Mehmet Eren Ahsen, Assistant Professor of Business Administration, UIUC](https://giesbusiness.illinois.edu/profile/mehmet-ahsen)
 
 - [Subhonmesh Bose, Assistant Professor of Electrical and Computer Engineering, UIUC](https://ece.illinois.edu/about/directory/faculty/boses) 
 
@@ -22,15 +22,16 @@ We are a group of researchers that work on healthcare related topics. During the
 
 - [Anton Ivanov, Assistant Professor of Business Administration, UIUC](https://giesbusiness.illinois.edu/profile/anton-ivanov)
 
-- [Ujjal **Kumar** Mukherjee, Assistant Professor of Business Administration, UIUC](https://giesbusiness.illinois.edu/profile/ujjal-mukherjee)
+- [Ujjal Kumar Mukherjee, Assistant Professor of Business Administration, UIUC](https://giesbusiness.illinois.edu/profile/ujjal-mukherjee)
 
 - [Sridhar Seshadri, Alan J. and Joyce D. Baltz Endowed Professor of Business Administration, UIUC](https://giesbusiness.illinois.edu/profile/sridhar-seshadri)
 
-- [Sebastian Souyris, Assistant Professor of Supply Chain and Analytics, RPI's Business School](https://faculty.rpi.edu/sebastian-souyris)
-
-- [Dimitrii Sumkin, Postdoc Research Associate, UIUC](https://www.dmitriisumkin.com/)
+- [Sebastian Souyris, Assistant Professor of Supply Chain and Analytics, RPI Lally School of Management](https://faculty.rpi.edu/sebastian-souyris)
 
 - [Padmavati Sridhar, Graduate Student, UC Berkeley School of Information](https://www.linkedin.com/in/psridhar2147/)
+
+
+- [Dimitrii Sumkin, Postdoc Research Associate, UIUC](https://www.dmitriisumkin.com/)
 
 - [Ron Watkins, Associate Dean, Strategic Innovation, UIUC](https://giesbusiness.illinois.edu/profile/ron-watkins)
 
