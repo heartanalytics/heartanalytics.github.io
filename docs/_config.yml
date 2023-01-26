@@ -42,12 +42,12 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-#header_pages:
-#  - index.markdown
-#  - about.markdown
-#  - research.markdown
-#  - software.markdown
-#  - collaborators.markdown
+header_pages:
+  - index.markdown
+  - about.markdown
+  - research.markdown
+  - software.markdown
+  - collaborators.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
