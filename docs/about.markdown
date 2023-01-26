@@ -42,7 +42,8 @@ title="Sridhar Seshadri"
 
 description="[Personal website](https://giesbusiness.illinois.edu/profile/sridhar-seshadri)  
 
-Sridhar Seshadri is Alan J. and Joyce D. Baltz Endowed Professor and area chair for information systems/operations management/supply chain/analytics. He joined Illinois in 2018, and spends his research energies on stochastic modeling and applications in manufacturing, supply chain management, and revenue management. He was named a James F. Towey Faculty Fellow in 2018. 
+Sridhar Seshadri obtained his PhD at the University of California, Berkeley after graduating from the Indian Institute of Technology, Madras, India and the Indian Institute of Management, Ahmedabad, India.  He is currently the Alan J and Joyce D Baltz Professor in the Geis College of Business and a Health Innovation Professor at the Carle Illinois College of Medicine. His current research projects focus on applications of analytics to different policy questions. These include Healthcare as part of the Heartgroup, the Development of Micro, Small and Medium Manufacturing Enterprises in India, and Sourcing and Risk Management in Global Supply Networks.  His professional service includes serving as the Associate Editor, Naval Research Logistics; Associate Editor, Management Science, and Department Editor (Operations and Finance Interface), Production and Operations Management Journal.  
+
 
  " %}
 
