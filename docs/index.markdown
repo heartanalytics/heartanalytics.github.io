@@ -15,6 +15,8 @@ We are a group of researchers that work on healthcare related topics. During the
 
 # News and Workshops
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BfyFzfMbZG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Prhu6LWVTEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FwvH1zoZpvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
