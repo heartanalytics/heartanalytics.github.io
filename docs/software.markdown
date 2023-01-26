@@ -2,6 +2,7 @@
 layout: page
 title: Software
 permalink: /software/
+order: 4
 ---
 
 # [Hotspots for Emerging Epidemics: Multi-Task and Transfer Learning over Mobility Networks](https://github.com/heart-analytics/COVID19-Hotspots/blob/main/evaluation/baselines.py)
