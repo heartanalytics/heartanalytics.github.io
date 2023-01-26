@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /about/
-order: 2
+#order: 2
 ---
 
 # Core Group Members

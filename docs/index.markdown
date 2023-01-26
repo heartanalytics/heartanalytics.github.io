@@ -5,7 +5,7 @@
 layout: page
 title: Home
 title-heading: false
-order: 1
+#order: 1
 ---
 
 # Welcome to Heart Analytics Group at UIUC!
