@@ -13,13 +13,9 @@ title="Mehmet Eren Ahsen"
 
 description="[Personal website](https://giesbusiness.illinois.edu/profile/mehmet-ahsen) 
 
-Ph.D., Biomedical Engineering, University of Texas at Dallas, 2015
+Dr. Mehmet (Eren) Ahsen is an Assistant Professor of Business Administration at the Gies College of Business and Health Innovation Professor at the Carle Illinois School of Medicine, the University of Illinois at Urbana Champaign. Prior, he was an assistant professor in the Department of Genetic and Genomic Sciences at the Icahn School Medicine at Mount Sinai Hospital. He earned his Ph.D. in Biomedical Engineering from the University of Texas at Dallas. His research broadly addresses the use of information and information technology to reduce inefficiencies in healthcare. In particular, he is interested in theoretical machine learning and its applications to improve decision-making in healthcare organizations. 
 
-M.S., Electrical and Electronics Engineering, Bilkent University, 2011
-
-B.S., Electrical and Electronics Engineering, Middle East Technical University, 2009
-
-B.S., Mathematics, Middle East Technical University, 2009" %}
+" %}
  
 {% include bio_pic.html image_path="/images/ukm.jpg" 
 
