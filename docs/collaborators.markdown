@@ -7,21 +7,6 @@ permalink: /collaborators/
 
 
  
-{% include colab_pic.html 
 
-image_path1="/images/insead.png" 
+<img src="/images/collaborators.png" width="900" alt="" >
 
-image_path2="/images/wharton.png"
-
-image_path3="/images/harvard.png"
-
-%} 
-
-{% include colab_pic.html 
-
-image_path1="/images/mayo.png" 
-
-image_path2="/images/osf.png"
-
-
-%} 
