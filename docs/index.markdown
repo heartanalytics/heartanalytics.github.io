@@ -8,7 +8,7 @@ title-heading: false
 #order: 1
 ---
 
-# Welcome to Heart Analytics Group at UIUC!
+# Welcome to Healthcare Analytics Group at UIUC!
 
 We are a group of researchers that work on healthcare related topics. During the COVID19 crisis, we are focused upon modeling the spread of infection and dynamic allocation of resources during the crisis. The group comprises of researchers from the UIUC, UC Berkeley, and advisors with supply chain expertise in the health care industry. Our research includes prediction of new infections, allocation of resources for testing, hotspots identification, and guidance for safe reopening.
 
