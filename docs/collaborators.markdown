@@ -8,5 +8,5 @@ permalink: /collaborators/
 
  
 
-<img src="/images/Collaborators.png" width="900" alt="" >
+<img src="/images/collaborators.png" width="900" alt="" >
 
