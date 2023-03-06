@@ -17,7 +17,8 @@ permalink: /research/
 
 # Algorithmic Bias/Fairness in Healthcare
 1. Ahsen, M. E., Ayvaci, M. U. S., & Raghunathan, S. (2019). *When algorithmic predictions use human-generated data: A bias-aware classification algorithm for breast cancer diagnosis*. Information Systems Research, 30(1), 97-116.
-1.Zhang, Z., Genc, Y., Wang, D., Ahsen, M.E. and Fan, X., 2021. *Effect of ai explanations on human perceptions of patient-facing ai-powered healthcare systems*. Journal of Medical Systems, 45(6), pp.1-10.
+
+1. Zhang, Z., Genc, Y., Wang, D., Ahsen, M.E. and Fan, X., 2021. *Effect of ai explanations on human perceptions of patient-facing ai-powered healthcare systems*. Journal of Medical Systems, 45(6), pp.1-10.
 
 # Healthcare Operations Management
 - [Evaluation of reopening strategies for educational institutions during COVID-19 through agent based simulation](https://github.com/heart-analytics/COVID19-Reopening)
