@@ -87,9 +87,6 @@ Dmitrii Sumkin is a Postdoctoral Researcher at University of Illinois at Urbana-
 
 - [Anton Ivanov, Assistant Professor of Business Administration, UIUC](https://giesbusiness.illinois.edu/profile/anton-ivanov)
 
-- [Ujjal Kumar Mukherjee, Assistant Professor of Business Administration, UIUC](https://giesbusiness.illinois.edu/profile/ujjal-mukherjee)
-
-- [Sridhar Seshadri, Alan J. and Joyce D. Baltz Endowed Professor of Business Administration, UIUC](https://giesbusiness.illinois.edu/profile/sridhar-seshadri)
 
 - [Sebastian Souyris, Assistant Professor of Supply Chain and Analytics, RPI Lally School of Management](https://faculty.rpi.edu/sebastian-souyris)
 
