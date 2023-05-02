@@ -24,6 +24,16 @@ permalink: /research/
 - [Evaluation of reopening strategies for educational institutions during COVID-19 through agent based simulation](https://github.com/heart-analytics/COVID19-Reopening)
 - [Not All COVID-19 Waves are Similar: Origins, Detection and Mitigation Strategies for Simultaneous Waves](https://github.com/heart-analytics/COVID19-India)
 - How SHIELD Illinois can help keep educational institutions open amid COVID-19: An econometric and epidemiologic analysis of ‘Test-to-stay’ program
+- Jiang, Z. Z., Silberholz, J., Wang, Y. I., Costa, D., & Sjoding, M. (2022). Can Employees' Past Helping Behavior Be Used to Improve Shift Scheduling? Evidence from ICU Nurses. Evidence from ICU Nurses (February 14, 2022). 
+- Xueze Song, Mili Mehrotra, Tharanga Rajapakshe, “An Analysis of Incentive Schemes for Participant Retention in Clinical Studies,” MSOM, Article in Advance, 2022, Available at https://doi.org/10.1287/msom.2022.1184.
+- Diwakar Gupta, Mili Mehrotra, Xiaoxu Tang, “Gainsharing Contracts for CMS’ Episode-
+Based Payment Models,” POM, Vol. 30, No. 5, May 2021, pp. 290-1312.
+- Mili Mehrotra, Karthik Natarajan, “Value of Combining Patient and Provider Incentives in Humanitarian Healthcare Service Programs,” POM, Vol. 29, No. 3, March 2020, pp. 571-594.
+- Diwakar Gupta, Mili Mehrotra, “Bundling Payments for Healthcare Services: Proposer Selection and Information Sharing,” Operations Research, Vol. 63, No. 4, July 2015, pp. 772-788.
+
+
+
+
 
 # Machine Learning
 1. Kim, S.C., Arun, A.S., Ahsen, M.E., Vogel, R. and Stolovitzky, G., 2021. *The Fermi–Dirac distribution provides a calibrated probabilistic output for binary classifiers*. Proceedings of the National Academy of Sciences, 118(34), p.e2100761118.

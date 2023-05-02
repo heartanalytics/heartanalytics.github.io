@@ -23,14 +23,34 @@ title="Ujjal Kumar Mukherjee"
 
 description="[Personal website](https://giesbusiness.illinois.edu/profile/mehmet-ahsen)  
 
-M.S., Statistics, University of Minnesota, 2015
+Ujjal Kumar Mukherjee is an Associate Professor at Gies College of Business and Health Innovation Professor at Carle Illinois College of Medicine, University of Illinois at Urbana-Champaign. His research focuses on product recalls, technology development in the medical device and pharmaceutical industries, healthcare analytics, and machine learning applications in precision medicine. He has conducted field studies on surgical robots in hospitals and has been actively involved in COVID-19 research. Mukherjee has received grants from NSF and C3.ai and has worked on a multi-university FDA project for drug quality evaluation. He has published extensively in management, statistical, and medical journals. " %} 
 
-Ph.D., Business Administration, University of Minnesota, 2015
+{% include bio_pic.html image_path="/images/iriswang.jpg" 
 
-MBA, Xavier Institute, 2002
+title="Yixin Iris Wang" 
 
-BEME, Jadavpur University, 1997 " %} 
+description="[Personal website](https://giesbusiness.illinois.edu/profile/yixin-iris-wang)  
 
+Iris Wang is an Assistant Professor of Operations Management at the Gies College of Business, University of Illinois at Urbana-Champaign. Her main research interests are empirical pharmaceutical supply chain management and human interactions in operations management. She has worked extensively with large-scale data and investigated how supply networks, strategic policy reactions, and behavioral business decisions affect company performance. She has worked in collaboration with U.S. academic medical centers and conducted experiments with pharmacy retail chains in China. Her research has been recognized by several awards and received honorable mentions at paper competitions.
+
+ " %}
+
+
+{% include bio_pic.html image_path="/images/milim.jpg" 
+
+title="Mili Mehrotra" 
+
+description="[Personal website](https://giesbusiness.illinois.edu/profile/mili-mehrotra)  
+
+M.S., Supply Chain Management, University of Texas at Dallas, 2010
+
+Ph.D., Operations Management, University of Texas at Dallas, 2010
+
+M.S., Mathematics, Banaras Hindu University, 2002
+
+B.S., Mathematics, Banaras Hindu University, 2000  
+
+ " %}
 
 {% include bio_pic.html image_path="/images/sridhar.jpg" 
 
@@ -41,6 +61,17 @@ description="[Personal website](https://giesbusiness.illinois.edu/profile/sridha
 Sridhar Seshadri obtained his PhD at the University of California, Berkeley after graduating from the Indian Institute of Technology, Madras, India and the Indian Institute of Management, Ahmedabad, India.  He is currently the Alan J and Joyce D Baltz Professor in the Geis College of Business and a Health Innovation Professor at the Carle Illinois College of Medicine. His current research projects focus on applications of analytics to different policy questions. These include Healthcare as part of the Heartgroup, the Development of Micro, Small and Medium Manufacturing Enterprises in India, and Sourcing and Risk Management in Global Supply Networks.  His professional service includes serving as the Associate Editor, Naval Research Logistics; Associate Editor, Management Science, and Department Editor (Operations and Finance Interface), Production and Operations Management Journal.  
 
 
+ " %}
+
+
+{% include bio_pic.html image_path="/images/dmitriis.jpg" 
+
+title="Dmitrii Sumkin" 
+
+description="[Personal website](https://devsite.giesbusiness.illinois.edu/profile/dmitrii-sumkin)  
+
+Dmitrii Sumkin is a Postdoctoral Researcher at University of Illinois at Urbana-Champaign. Before starting at Gies College of Business, I completed my Ph.D. at INSEAD. Prior to the Ph.D., I earned my M.A. in Economics from New Economic School in Moscow, as well as my M.Sc. and B.Sc. in Applied Mathematics and Physics from Moscow Institute of Physics and Technology. His research domains are service operations and sustainable operations. He focuses on how firms apply technological innovation to improve business processes, create new customer experiences, and facilitate social responsibility. In particular, he studies how the firm should design blockchain-enabled digital collectibles markets (NFTs) with limited supply; how blockchain may affect responsibility level in the diamonds supply chain. He is also interested in how AI-empowered personalized recommendations and customer-facing technology affects what people choose to eat in restaurants.
+ 
  " %}
 
 
@@ -63,9 +94,6 @@ Sridhar Seshadri obtained his PhD at the University of California, Berkeley afte
 - [Sebastian Souyris, Assistant Professor of Supply Chain and Analytics, RPI Lally School of Management](https://faculty.rpi.edu/sebastian-souyris)
 
 - [Padmavati Sridhar, Graduate Student, UC Berkeley School of Information](https://www.linkedin.com/in/psridhar2147/)
-
-
-- [Dimitrii Sumkin, Postdoc Research Associate, UIUC](https://www.dmitriisumkin.com/)
 
 - [Ron Watkins, Associate Dean, Strategic Innovation, UIUC](https://giesbusiness.illinois.edu/profile/ron-watkins)
 
