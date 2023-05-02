@@ -64,7 +64,7 @@ Sridhar Seshadri obtained his PhD at the University of California, Berkeley afte
  " %}
 
 
-{% include bio_pic.html image_path="/images/dmitriis.jpg" 
+{% include bio_pic.html image_path="/images/dmitriis.png" 
 
 title="Dmitrii Sumkin" 
 
@@ -86,7 +86,6 @@ Dmitrii Sumkin is a Postdoctoral Researcher at University of Illinois at Urbana-
 - [Shuai Hao, PhD Student in Business Administration](https://giesbusiness.illinois.edu/profile/shuai-hao)
 
 - [Anton Ivanov, Assistant Professor of Business Administration, UIUC](https://giesbusiness.illinois.edu/profile/anton-ivanov)
-
 
 - [Sebastian Souyris, Assistant Professor of Supply Chain and Analytics, RPI Lally School of Management](https://faculty.rpi.edu/sebastian-souyris)
 
