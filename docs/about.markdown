@@ -21,7 +21,7 @@ Dr. Mehmet (Eren) Ahsen is an Assistant Professor of Business Administration at 
 
 title="Ujjal Kumar Mukherjee" 
 
-description="[Personal website](https://giesbusiness.illinois.edu/profile/mehmet-ahsen)  
+description="[Personal website](https://giesbusiness.illinois.edu/profile/ujjal-mukherjee)  
 
 Ujjal Kumar Mukherjee is an Associate Professor at Gies College of Business and Health Innovation Professor at Carle Illinois College of Medicine, University of Illinois at Urbana-Champaign. His research focuses on product recalls, technology development in the medical device and pharmaceutical industries, healthcare analytics, and machine learning applications in precision medicine. He has conducted field studies on surgical robots in hospitals and has been actively involved in COVID-19 research. Mukherjee has received grants from NSF and C3.ai and has worked on a multi-university FDA project for drug quality evaluation. He has published extensively in management, statistical, and medical journals. " %} 
 
