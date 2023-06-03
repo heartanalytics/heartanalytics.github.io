@@ -3,15 +3,34 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Home
+#title: Home
 title-heading: false
 #order: 1
 ---
 
+<style>
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+.left {
+  text-align: left;
+}
+
+.justify {
+  text-align: justify;
+}
+</style>
+
+
 # Welcome to Healthcare Analytics Group!
 
+{: .justify}
 We are a group of researchers that work on healthcare related topics. During the COVID19 crisis, we are focused upon modeling the spread of infection and dynamic allocation of resources during the crisis. The group comprises of researchers from the UIUC, UC Berkeley, and advisors with supply chain expertise in the health care industry. Our research includes prediction of new infections, allocation of resources for testing, hotspots identification, and guidance for safe reopening.
-
 
 # News and Workshops
 
