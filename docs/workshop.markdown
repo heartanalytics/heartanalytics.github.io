@@ -112,17 +112,17 @@ We have made significant progress from the leads generated from the last year’
 
 10.00 AM - 11.30 AM: Managing a pandemic to reduce societal cost
 
-- Aravind Chandrasekhar (OSU): "Food and health for socially underprivileged communities using data from a field experiment at multiple foodbanks." 
-- Heart Group (Sebastian / Ujjal / Bose): "Managing in-person operations in educational institutions during the pandemic: The pivotal role of testing (Opt-in/Opt-out)."
-- Ian Larkin (UCLA): "COVID vaccine mandates and nursing homes safety."
-- Minje Park (Columbia): **TBD**
+- Aravind Chandrasekhar, Professor, Fisher College of Business, OSU: "Food and health for socially underprivileged communities using data from a field experiment at multiple foodbanks." 
+- Sebastian Souyris, Assistant Professor, Rensselaer Polytechnic Institute: "Managing in-person operations in educational institutions during the pandemic: The pivotal role of testing (Opt-in/Opt-out)."
+- Ian Larkin, Associate Professor, Anderson School of Management, UCLA: "COVID vaccine mandates and nursing homes safety."
+- Minje Park, Postdoctoral Research Scholar, Columbia Business School: Stockpiling Medicines at the Onset of the COVID-19 Pandemic
 
 11.30 AM - 1.00 PM: Role of data analytics in healthcare 
 
-- Selvaprabhu Nadarajah (UIC)
-- Pangyi Shi (Purdue)
-- Sandeep Rath (UNC)
-- Xueze Song (UIUC)
+- Selvaprabhu Nadarajah, Associate Professor,  University of Illinois Chicago: "Pathways to NetZero in Healthcare: A Goal-Oriented Valuation Perspective"
+- Pengyi Shi, Associate Professor, Purdue University: "Delta Coverage: The Analytics Journey to Implement a Novel Nurse Deployment Solution"
+- Sandeep Rath, Assistant Professor, Kenan Flagler Business School at UNC: "Data-Driven Surgical Tray Optimization to Improve Operating Room Efficiency"
+- Xueze Song, PhD Candidate, University of Illinois: "Analysis of Compensation Contracts for Providers in Clinical Studies"
 
 1.00 Noon - 1.30 PM: Lunch
 
@@ -135,7 +135,7 @@ We have made significant progress from the leads generated from the last year’
 2.00 PM - 3.30 PM: Addressing Challenges in Food and Health Safety
 
 - Susan Lu (Purdue) **TBD**
-- Iva Rashkova **TBD**
+- Iva Rashkova, Assistant Professor, Washington University in St Louis: "Budget Allocations for Public Health Procurement"
 - Demonstration of the behavioral APP - KK: "Effect of financing on drug availability in developing countries."
 - Bhupinder Singh Juneja: "Role of ICU capacity, Vaccination and Last Mile Delivery of Vaccines in Reducing Mortality."
 
@@ -144,9 +144,9 @@ We have made significant progress from the leads generated from the last year’
 
 3.45 PM - 5.30 PM: Role of AI and Social Financing on Managing Future Challenges of Healthcare
 
-- Andy Allison: **TBD**
-- Roopa Foulger, OSF Healthcare: **TBD**
-- James Parker: **TBD**
+- Andy Allison, Deputy Director for Strategic Planning and Analytics, Illinois Department of Healthcare and Family Services: "Mainstreaming analytics in Illinois Medicaid"
+- Roopa Foulger, VP Digital & Innovation Development, OSF Healthcare: "Unveiling the Data Potential: Personalized and Compassionate care in a Diverse Post-Pandemic World"
+- Professor James Parker, Senior Director, Office of Medicaid Innovation: "Opportunities in Medicaid"
 - Accenture: **TBD**
 
 5.30 PM - 6.45 PM: Panel Discussion on Healthcare Research of Future 
@@ -155,14 +155,13 @@ We have made significant progress from the leads generated from the last year’
 - Professor Kingshuk K. Sinha, Carson School of Management, University of Minnesota
 - Professor J. George Shanthikumar, Krannert School of Management, Purdue University
 - Ron Watkins, University of Illinois, SHIELD Illinois
-- Rodney Parker
+- Professor Rodney Parker, Kelley School of Business, Indiana University
 - Professor Nolan Miller, Gies College of Business, University of Illinois
-- Ian Brooks
+- Professor Ian Brooks, School of Information Sciences, University of Illinois
 
 6.45 PM - 7.00 PM: Closing Remarks 
 
 - Professor Amy Wagoner Johnson, Carle Illinois College of Medicine, University of Illinois
-
 - Professor Carlos Torelli, Gies College of Business, University of Illinois
 
 7.00 PM - 8.00 PM: Reception Dinner
