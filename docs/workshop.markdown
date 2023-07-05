@@ -100,9 +100,9 @@ We have made significant progress from the leads generated from the last year’
 
 8.30 AM - 9.00 AM: Inauguration 
 
-- Ujjal Mukherjee: "Focus and Summary of Progress from last conference." 
-- Dean Mark Cohen
-- Dean Mark Peecher
+- Professor Ujjal Mukherjee, Gies College of Business, University of Illinois
+- Professor Mark Peecher, Gies College of Business, University of Illinois
+- Dean Mark S. Cohen, Carle Illinois College of Medicine, University of Illinois & Carle Health
 
 9.00 AM - 9.45 AM: Key Note Address 
 
@@ -145,24 +145,25 @@ We have made significant progress from the leads generated from the last year’
 3.45 PM - 5.30 PM: Role of AI and Social Financing on Managing Future Challenges of Healthcare
 
 - Andy Allison: **TBD**
-- Roopa Foulger: **TBD**
+- Roopa Foulger, OSF Healthcare: **TBD**
 - James Parker: **TBD**
 - Accenture: **TBD**
 
 5.30 PM - 6.45 PM: Panel Discussion on Healthcare Research of Future 
 
-- Sridhar Seshadri (Moderator)
-- Kingshuk Sinha
-- George Shanthikumar
-- Ronald Watkins
+- Professor Sridhar Seshadri (Moderator), Gies College of Business, University of Illinois
+- Professor Kingshuk K. Sinha, Carson School of Management, University of Minnesota
+- Professor J. George Shanthikumar, Krannert School of Management, Purdue University
+- Ron Watkins, University of Illinois, SHIELD Illinois
 - Rodney Parker
-- Nolan Miller
+- Professor Nolan Miller, Gies College of Business, University of Illinois
 - Ian Brooks
 
 6.45 PM - 7.00 PM: Closing Remarks 
 
-- Carlos Torelli
-- Amy Wagoner Johnson 
+- Professor Amy Wagoner Johnson, Carle Illinois College of Medicine, University of Illinois
+
+- Professor Carlos Torelli, Gies College of Business, University of Illinois
 
 7.00 PM - 8.00 PM: Reception Dinner
 
