@@ -55,6 +55,9 @@ ul, ol {
 
 **Link to last year’s workshop webpage**: [https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference ](https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference ) 
 
+**Conference Attendance Registration Form**: [https://forms.illinois.edu/sec/326496156 ](https://forms.illinois.edu/sec/326496156 ) 
+
+
 
 **Background** – This is the third installment of the healthcare conference series we organize with support from Carle Illinois College of Medicine, and the Gies College of Business at UIUC. In the last (second) installment, we focused on the social delivery of healthcare using technological means. The second mid-west healthcare conference was held in August 2022 and was attended by industry experts, academicians from the process and clinical side, and students. The conference provided us with several leads that have resulted in fruitful engagement with OSF, Claro Healthcare, Christie Clinic, SHIELD Illinois, and others on several research projects. We have submitted two rounds of research proposals to OSF Jump Arches for funding opportunities on social healthcare delivery and fairness in healthcare decision-making. We have received funding from OSF to conduct field experiments to evaluate the efficacy of rural health kiosks towards improving assess and awareness of healthcare among the underserved populations. We have completed several research projects with SHIELD Illinois, and we have published several papers in leading journals, and a few others are in progress. We were recently invited by SHIELD Illinois to present insights from our work at the SHIELD Illinois Annual Conference in Chicago held 30-31 of March 2023. We have submitted fresh research proposal to SHIELD Illinois for funding/sponsoring the next round of work on understanding behavioral patterns in epidemic dynamics and implementation of mitigative measures and policies. We believe that we are in an opportune moment to learn from the COVID-19 pandemic and shape the future forms of healthcare systems grounded in the collective experience of going through a pandemic. For this reason, we have chosen the theme of this year’s workshop as: *Learning from COVID-19 and Managing Healthcare Beyond COVID with special focus towards social healthcare delivery to underserved communities*. We conduct the workshop on August 17, 2023. 
 
@@ -93,27 +96,75 @@ We have made significant progress from the leads generated from the last year’
 
 **Venue: i-Hotel, Champaign, IL.**
 
-8.00 AM – 9.00 AM: Breakfast
+8.00 AM - 8.30 AM: Breakfast and Registration
 
-9.00 AM - 10.00 AM: Inauguration 
+8.30 AM - 9.00 AM: Inauguration 
 
-10.00 AM -10.15 AM: Break
+- Ujjal Mukherjee: "Focus and Summary of Progress from last conference." 
+- Dean Mark Cohen
+- Dean Mark Peecher
 
-10.15 AM -10.45 AM: – Presentation on developments on healthcare initiative at Gies and UIUC campus.
+9.00 AM - 9.45 AM: Key Note Address 
 
-10.45 AM -12.15 PM: Presentations on research. 
+- IDPH: "Challenges of Healthcare Delivery to a Diverse Population post COVID-19."
 
-12.15 PM -1.15 PM: Lunch
+9.45 AM - 10.00 AM: Break 
 
-1.15 PM – 2.30 PM: Presentation by practitioner on Healthcare delivery post COVID – Challenges and Opportunities
+10.00 AM - 11.30 AM: Managing a pandemic to reduce societal cost
 
-2.30 PM – 3.45 PM: Presentation on Healthcare management research – future directions, challenges and opportunities. 
+- Aravind Chandrasekhar (OSU): "Food and health for socially underprivileged communities using data from a field experiment at multiple foodbanks." 
+- Heart Group (Sebastian / Ujjal / Bose): "Managing in-person operations in educational institutions during the pandemic: The pivotal role of testing (Opt-in/Opt-out)."
+- Ian Larkin (UCLA): "COVID vaccine mandates and nursing homes safety."
+- Minje Park (Columbia): **TBD**
 
-3.45 PM – 4.00 PM: Break
+11.30 AM - 1.00 PM: Role of data analytics in healthcare 
 
-4.00 PM – 5.30 PM: Presentation on Healthcare research post COVID. 
-Break
+- Selvaprabhu Nadarajah (UIC)
+- Pangyi Shi (Purdue)
+- Sandeep Rath (UNC)
+- Xueze Song (UIUC)
 
-6.00 PM – 8.00 PM Dinner.  
+1.00 Noon - 1.30 PM: Lunch
+
+1.30 PM - 2.00 PM: Competition Award Ceremony and Presentations
+
+- First Prize: **TBD**
+- Second Price: **TBD**
+- Third Prize: **TBD**
+
+2.00 PM - 3.30 PM: Addressing Challenges in Food and Health Safety
+
+- Susan Lu (Purdue) **TBD**
+- Iva Rashkova **TBD**
+- Demonstration of the behavioral APP - KK: "Effect of financing on drug availability in developing countries."
+- Bhupinder Singh Juneja: "Role of ICU capacity, Vaccination and Last Mile Delivery of Vaccines in Reducing Mortality."
+
+
+3.30 PM - 3.45 PM:	Break
+
+3.45 PM - 5.30 PM: Role of AI and Social Financing on Managing Future Challenges of Healthcare
+
+- Andy Allison: **TBD**
+- Roopa Foulger: **TBD**
+- James Parker: **TBD**
+- Accenture: **TBD**
+
+5.30 PM - 6.45 PM: Panel Discussion on Healthcare Research of Future 
+
+- Sridhar Seshadri (Moderator)
+- Kingshuk Sinha
+- George Shanthikumar
+- Ronald Watkins
+- Rodney Parker
+- Nolan Miller
+- Ian Brooks
+
+6.45 PM - 7.00 PM: Closing Remarks 
+
+- Carlos Torelli
+- Amy Wagoner Johnson 
+
+7.00 PM - 8.00 PM: Reception Dinner
+
  
 **Primary Organizers**: Dimitri Sumkin, Ujjal Mukherjee, and Sridhar Seshadri
