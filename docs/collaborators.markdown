@@ -8,3 +8,5 @@ permalink: /collaborators/
 
 
 ![Alt Text](/images/collaborators.png)
+
+...
