@@ -55,7 +55,11 @@ ul, ol {
 
 **Link to last year’s workshop webpage**: [https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference ](https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference ) 
 
-**Conference Attendance Registration Form**: [https://forms.illinois.edu/sec/326496156 ](https://forms.illinois.edu/sec/326496156 ) 
+**Conference Attendance Registration Form**:
+
+{: .center}
+# <a href="https://forms.illinois.edu/sec/326496156" style="display: inline-block; padding: 10px 20px; background-color: #4C6BF7; color: #FFFFFF; text-decoration: none; border-radius: 5px;">Register</a>
+
 
 
 
