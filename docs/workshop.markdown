@@ -106,8 +106,8 @@ We have made significant progress from the leads generated from the last year’
 #### 8.30 AM - 9.00 AM: Inauguration 
 
 - Professor Ujjal Mukherjee, Gies College of Business, University of Illinois
-- Professor Mark Peecher, Gies College of Business, University of Illinois
-- Dean Mark S. Cohen, Carle Illinois College of Medicine, University of Illinois & Carle Health
+- Dean --- Gies College of Business, University of Illinois
+- Dean --- Carle Illinois College of Medicine, University of Illinois & Carle Health
 
 #### 9.00 AM - 9.45 AM: Key Note Address 
 
