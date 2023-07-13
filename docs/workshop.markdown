@@ -140,7 +140,7 @@ We have made significant progress from the leads generated from the last year’
 
 #### 2.00 PM - 3.30 PM: Addressing Challenges in Food and Health Safety
 
-- Susan Lu (Purdue) **TBD**
+- Susan Lu, Professor, Purdue University: **TBD**
 - Iva Rashkova, Assistant Professor, Washington University in St Louis: "Budget Allocations for Public Health Procurement"
 - Demonstration of the behavioral APP - KK: "Effect of financing on drug availability in developing countries."
 - Bhupinder Juneja, Senior Lecturer, Carlson School of Management, University of Minnesota: "Enabling the last-mile administration of vaccines, equitably: a county-level analysis."
