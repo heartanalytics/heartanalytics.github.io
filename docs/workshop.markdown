@@ -118,6 +118,8 @@ We have made significant progress from the leads generated from the last year’
 #### 10.00 AM - 11.30 AM: Managing a pandemic to reduce societal cost
 
 - Aravind Chandrasekhar, Professor, Fisher College of Business, OSU: "Food and health for socially underprivileged communities using data from a field experiment at multiple foodbanks." 
+- Anita Carson, Professor, Questrom School of Business, Boston University: "Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices."
+- Bhupinder Juneja, Senior Lecturer, Carlson School of Management, University of Minnesota: "Enabling the last-mile administration of vaccines, equitably: a county-level analysis."
 - Sebastian Souyris, Assistant Professor, Rensselaer Polytechnic Institute: "Managing in-person operations in educational institutions during the pandemic: The pivotal role of testing (Opt-in/Opt-out)."
 - Ian Larkin, Associate Professor, Anderson School of Management, UCLA: "COVID vaccine mandates and nursing homes safety."
 - Minje Park, Postdoctoral Research Scholar, Columbia Business School: Stockpiling Medicines at the Onset of the COVID-19 Pandemic
@@ -128,6 +130,7 @@ We have made significant progress from the leads generated from the last year’
 - Pengyi Shi, Associate Professor, Purdue University: "Delta Coverage: The Analytics Journey to Implement a Novel Nurse Deployment Solution"
 - Sandeep Rath, Assistant Professor, Kenan Flagler Business School at UNC: "Data-Driven Surgical Tray Optimization to Improve Operating Room Efficiency"
 - Xueze Song, PhD Candidate, University of Illinois: "Analysis of Compensation Contracts for Providers in Clinical Studies"
+- Yi Tang, PhD Candidate, University of Minnesota - Twin Cities: "Designing a Mental Health Service Recommender System:  Sensing and Responding to the Personalized Support Needs and Advancing Equity in Mental Healthcare Delivery."
 
 #### 1.00 Noon - 1.30 PM: Lunch
 
