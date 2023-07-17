@@ -117,17 +117,17 @@ We have made significant progress from the leads generated from the last year’
 
 #### 10.00 AM - 11.30 AM: Managing a pandemic to reduce societal cost
 
-- Aravind Chandrasekhar, Professor, Fisher College of Business, OSU: "Food and health for socially underprivileged communities using data from a field experiment at multiple foodbanks." 
-- Anita Carson, Professor, Questrom School of Business, Boston University and Minje Park, Postdoctoral Research Scholar, Columbia Business School: "Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices."
-- Sebastian Souyris, Assistant Professor, Rensselaer Polytechnic Institute: "Managing in-person operations in educational institutions during the pandemic: The pivotal role of testing (Opt-in/Opt-out)."
-- Ian Larkin, Associate Professor, Anderson School of Management, UCLA: "COVID vaccine mandates and nursing homes safety."
+- Aravind Chandrasekhar, Fisher College of Business, OSU: "Food and health for socially underprivileged communities using data from a field experiment at multiple foodbanks." 
+- Anita Carson,  Questrom School of Business, Boston University and Minje Park, Postdoctoral Research Scholar, Columbia Business School: "Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices."
+- Sebastian Souyris, Rensselaer Polytechnic Institute: "Managing in-person operations in educational institutions during the pandemic: The pivotal role of testing (Opt-in/Opt-out)."
+- Ian Larkin, Anderson School of Management, UCLA: "COVID vaccine mandates and nursing homes safety."
 
 #### 11.30 AM - 1.00 PM: Role of data analytics in healthcare 
 
-- Selvaprabhu Nadarajah, Associate Professor,  University of Illinois Chicago: "Pathways to NetZero in Healthcare: A Goal-Oriented Valuation Perspective"
-- Pengyi Shi, Associate Professor, Purdue University: "Delta Coverage: The Analytics Journey to Implement a Novel Nurse Deployment Solution"
-- Sandeep Rath, Assistant Professor, Kenan Flagler Business School at UNC: "Data-Driven Surgical Tray Optimization to Improve Operating Room Efficiency"
-- Xueze Song, PhD Candidate, University of Illinois: "Analysis of Compensation Contracts for Providers in Clinical Studies"
+- Selvaprabhu Nadarajah, University of Illinois Chicago: "Pathways to NetZero in Healthcare: A Goal-Oriented Valuation Perspective"
+- Pengyi Shi, Purdue University: "Delta Coverage: The Analytics Journey to Implement a Novel Nurse Deployment Solution"
+- Sandeep Rath, Kenan Flagler Business School at UNC: "Data-Driven Surgical Tray Optimization to Improve Operating Room Efficiency"
+- Xueze Song, University of Illinois: "Analysis of Compensation Contracts for Providers in Clinical Studies"
 
 #### 1.00 Noon - 1.30 PM: Lunch
 
@@ -139,10 +139,10 @@ We have made significant progress from the leads generated from the last year’
 
 #### 2.00 PM - 3.30 PM: Addressing Challenges in Food and Health Safety
 
-- Susan Lu, Professor, Purdue University: **TBD**
-- Iva Rashkova, Assistant Professor, Washington University in St Louis: "Budget Allocations for Public Health Procurement"
-- Yi Tang, PhD Candidate, University of Minnesota - Twin Cities: "Designing a Mental Health Service Recommender System: Sensing and Responding to the Personalized Support Needs and Advancing Equity in Mental Healthcare Delivery."
-- Bhupinder Juneja, Senior Lecturer, Carlson School of Management, University of Minnesota: "Enabling the last-mile administration of vaccines, equitably: a county-level analysis."
+- Susan Lu, Purdue University: **TBD**
+- Iva Rashkova, Washington University in St Louis: "Budget Allocations for Public Health Procurement"
+- Yi Tang, University of Minnesota - Twin Cities: "Designing a Mental Health Service Recommender System: Sensing and Responding to the Personalized Support Needs and Advancing Equity in Mental Healthcare Delivery."
+- Bhupinder Juneja, Carlson School of Management, University of Minnesota: "Enabling the last-mile administration of vaccines, equitably: a county-level analysis."
 
 #### 3.30 PM - 3.45 PM:	Break
 
@@ -155,21 +155,21 @@ We have made significant progress from the leads generated from the last year’
 
 #### 5.30 PM - 6.45 PM: Panel Discussion on Healthcare Research of Future 
 
-- Professor Sridhar Seshadri (Moderator), Gies College of Business, University of Illinois
-- Professor Kingshuk K. Sinha, Carson School of Management, University of Minnesota
-- Professor J. George Shanthikumar, Krannert School of Management, Purdue University
+- Sridhar Seshadri (Moderator), Gies College of Business, University of Illinois
+- Kingshuk K. Sinha, Carson School of Management, University of Minnesota
+- J. George Shanthikumar, Krannert School of Management, Purdue University
 - Ron Watkins, University of Illinois, SHIELD Illinois
-- Professor Rodney Parker, Kelley School of Business, Indiana University
-- Professor Nolan Miller, Gies College of Business, University of Illinois
-- Professor Ian Brooks, School of Information Sciences, University of Illinois
+- Rodney Parker, Kelley School of Business, Indiana University
+- Nolan Miller, Gies College of Business, University of Illinois
+- Ian Brooks, School of Information Sciences, University of Illinois
 
 #### 6.45 PM - 7.00 PM: Closing Remarks 
 
-- Professor Amy Wagoner Johnson, Carle Illinois College of Medicine, University of Illinois
-- Professor Carlos Torelli, Gies College of Business, University of Illinois
+- Amy Wagoner Johnson, Carle Illinois College of Medicine, University of Illinois
+- Carlos Torelli, Gies College of Business, University of Illinois
 
 #### 7.00 PM - 8.00 PM: Reception Dinner
 
-
+**For any questions contact Maria Dorofeeva at dorofeev@illinois.edu.
 
 **Primary Organizers**: Dimitri Sumkin, Ujjal Mukherjee, and Sridhar Seshadri
