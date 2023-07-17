@@ -118,7 +118,7 @@ We have made significant progress from the leads generated from the last year’
 #### 10.00 AM - 11.30 AM: Managing a pandemic to reduce societal cost
 
 - Aravind Chandrasekhar, Fisher College of Business, OSU: "Food and health for socially underprivileged communities using data from a field experiment at multiple foodbanks." 
-- Anita Carson,  Questrom School of Business, Boston University and Minje Park, Postdoctoral Research Scholar, Columbia Business School: "Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices."
+- Anita Carson,  Questrom School of Business, Boston University and Minje Park, Columbia Business School: "Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices."
 - Sebastian Souyris, Rensselaer Polytechnic Institute: "Managing in-person operations in educational institutions during the pandemic: The pivotal role of testing (Opt-in/Opt-out)."
 - Ian Larkin, Anderson School of Management, UCLA: "COVID vaccine mandates and nursing homes safety."
 
