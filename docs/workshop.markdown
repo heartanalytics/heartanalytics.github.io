@@ -159,6 +159,7 @@ We have made significant progress from the leads generated from the last year’
 - Kingshuk K. Sinha, Carson School of Management, University of Minnesota
 - J. George Shanthikumar, Krannert School of Management, Purdue University
 - Ron Watkins, University of Illinois, SHIELD Illinois
+- Lee Kuhn, Claro Healthcare
 - Rodney Parker, Kelley School of Business, Indiana University
 - Nolan Miller, Gies College of Business, University of Illinois
 - Ian Brooks, School of Information Sciences, University of Illinois
