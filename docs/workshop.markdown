@@ -148,9 +148,9 @@ We have made significant progress from the leads generated from the last year’
 
 #### 3.45 PM - 5.30 PM: Role of AI and Social Financing on Managing Future Challenges of Healthcare
 
-- Andy Allison, Deputy Director for Strategic Planning and Analytics, Illinois Department of Healthcare and Family Services: "Mainstreaming analytics in Illinois Medicaid"
-- Roopa Foulger, VP Digital & Innovation Development, OSF Healthcare: "Unveiling the Data Potential: Personalized and Compassionate care in a Diverse Post-Pandemic World"
-- Professor James Parker, Senior Director, Office of Medicaid Innovation: "Opportunities in Medicaid"
+- Andy Allison, Illinois Department of Healthcare and Family Services: "Mainstreaming analytics in Illinois Medicaid"
+- Roopa Foulger, OSF Healthcare: "Unveiling the Data Potential: Personalized and Compassionate care in a Diverse Post-Pandemic World"
+- James Parker, Office of Medicaid Innovation: "Opportunities in Medicaid"
 - Accenture: **TBD**
 
 #### 5.30 PM - 6.45 PM: Panel Discussion on Healthcare Research of Future 
