@@ -105,7 +105,7 @@ We have made significant progress from the leads generated from the last year’
 
 #### 8.30 AM - 9.00 AM: Inauguration 
 
-- Professor Ujjal Mukherjee, Gies College of Business, University of Illinois
+- Ujjal Mukherjee, Gies College of Business, University of Illinois
 - Dean --- Gies College of Business, University of Illinois
 - Dean --- Carle Illinois College of Medicine, University of Illinois & Carle Health
 
