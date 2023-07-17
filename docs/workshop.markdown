@@ -118,10 +118,9 @@ We have made significant progress from the leads generated from the last year’
 #### 10.00 AM - 11.30 AM: Managing a pandemic to reduce societal cost
 
 - Aravind Chandrasekhar, Professor, Fisher College of Business, OSU: "Food and health for socially underprivileged communities using data from a field experiment at multiple foodbanks." 
-- Anita Carson, Professor, Questrom School of Business, Boston University: "Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices."
+- Anita Carson, Professor, Questrom School of Business, Boston University and Minje Park, Postdoctoral Research Scholar, Columbia Business School: "Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices."
 - Sebastian Souyris, Assistant Professor, Rensselaer Polytechnic Institute: "Managing in-person operations in educational institutions during the pandemic: The pivotal role of testing (Opt-in/Opt-out)."
 - Ian Larkin, Associate Professor, Anderson School of Management, UCLA: "COVID vaccine mandates and nursing homes safety."
-- Minje Park, Postdoctoral Research Scholar, Columbia Business School: Stockpiling Medicines at the Onset of the COVID-19 Pandemic
 
 #### 11.30 AM - 1.00 PM: Role of data analytics in healthcare 
 
@@ -142,7 +141,7 @@ We have made significant progress from the leads generated from the last year’
 
 - Susan Lu, Professor, Purdue University: **TBD**
 - Iva Rashkova, Assistant Professor, Washington University in St Louis: "Budget Allocations for Public Health Procurement"
-- Demonstration of the behavioral APP - KK: "Effect of financing on drug availability in developing countries."
+- Yi Tang, PhD Candidate, University of Minnesota - Twin Cities: "Designing a Mental Health Service Recommender System: Sensing and Responding to the Personalized Support Needs and Advancing Equity in Mental Healthcare Delivery."
 - Bhupinder Juneja, Senior Lecturer, Carlson School of Management, University of Minnesota: "Enabling the last-mile administration of vaccines, equitably: a county-level analysis."
 
 #### 3.30 PM - 3.45 PM:	Break
@@ -152,7 +151,6 @@ We have made significant progress from the leads generated from the last year’
 - Andy Allison, Deputy Director for Strategic Planning and Analytics, Illinois Department of Healthcare and Family Services: "Mainstreaming analytics in Illinois Medicaid"
 - Roopa Foulger, VP Digital & Innovation Development, OSF Healthcare: "Unveiling the Data Potential: Personalized and Compassionate care in a Diverse Post-Pandemic World"
 - Professor James Parker, Senior Director, Office of Medicaid Innovation: "Opportunities in Medicaid"
-- Yi Tang, PhD Candidate, University of Minnesota - Twin Cities: "Designing a Mental Health Service Recommender System: Sensing and Responding to the Personalized Support Needs and Advancing Equity in Mental Healthcare Delivery."
 - Accenture: **TBD**
 
 #### 5.30 PM - 6.45 PM: Panel Discussion on Healthcare Research of Future 
