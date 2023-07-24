@@ -127,7 +127,7 @@ We have made significant progress from the leads generated from the last year’
 - Selvaprabhu Nadarajah, University of Illinois Chicago: "Pathways to NetZero in Healthcare: A Goal-Oriented Valuation Perspective"
 - Pengyi Shi, Purdue University: "Delta Coverage: The Analytics Journey to Implement a Novel Nurse Deployment Solution"
 - Sandeep Rath, Kenan Flagler Business School at UNC: "Data-Driven Surgical Tray Optimization to Improve Operating Room Efficiency"
-- Xueze Song, University of Illinois: "Analysis of Compensation Contracts for Providers in Clinical Studies"
+- Mili Mehrotra and Xueze Song, University of Illinois: "Analysis of Compensation Contracts for Providers in Clinical Studies"
 
 #### 1.00 Noon - 1.30 PM: Lunch
 
@@ -151,7 +151,7 @@ We have made significant progress from the leads generated from the last year’
 - Andy Allison, Illinois Department of Healthcare and Family Services: "Mainstreaming analytics in Illinois Medicaid"
 - Roopa Foulger, OSF Healthcare: "Unveiling the Data Potential: Personalized and Compassionate care in a Diverse Post-Pandemic World"
 - James Parker, Office of Medicaid Innovation: "Opportunities in Medicaid"
-- Accenture: **TBD**
+- Rajesh Rangaswamy, Accenture: **TBD**
 
 #### 5.30 PM - 6.45 PM: Panel Discussion on Healthcare Research of Future 
 
@@ -161,7 +161,6 @@ We have made significant progress from the leads generated from the last year’
 - Ron Watkins, University of Illinois, SHIELD Illinois
 - Lee Kuhn, Claro Healthcare
 - Rodney Parker, Kelley School of Business, Indiana University
-- Nolan Miller, Gies College of Business, University of Illinois
 - Ian Brooks, School of Information Sciences, University of Illinois
 
 #### 6.45 PM - 7.00 PM: Closing Remarks 
