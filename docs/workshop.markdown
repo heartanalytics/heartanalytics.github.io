@@ -129,7 +129,7 @@ We have made significant progress from the leads generated from the last year’
 - Sandeep Rath, Kenan Flagler Business School at UNC: "Data-Driven Surgical Tray Optimization to Improve Operating Room Efficiency"
 - Mili Mehrotra and Xueze Song, University of Illinois: "Analysis of Compensation Contracts for Providers in Clinical Studies"
 
-#### 1.00 Noon - 1.30 PM: Lunch
+#### 1.00 PM - 1.30 PM: Lunch
 
 #### 1.30 PM - 2.00 PM: Competition Award Ceremony and Presentations
 
