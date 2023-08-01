@@ -51,6 +51,7 @@ ul, ol {
 
 **Theme of the Workshop** - Learnings from COVID-19 and Managing Healthcare beyond COVID with Special Focus towards Social Healthcare Delivery to Underserved Communities.
 
+**Venue**: [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
 
 
 **Link to last year’s workshop webpage**: [https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference ](https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference ) 
