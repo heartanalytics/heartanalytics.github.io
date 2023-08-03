@@ -112,27 +112,24 @@ We have made significant progress from the leads generated from the last year’
 
 #### 9.00 AM - 9.45 AM: Key Note Address 
 
-- IDPH: "Challenges of Healthcare Delivery to a Diverse Population post COVID-19."
+- Sameer Vohra and Arti Barnes, Illinois Department of Public Health: "Challenges of Healthcare Delivery to a Diverse Population post COVID-19."
 
 #### 9.45 AM - 10.00 AM: Break 
 
-#### 10.00 AM - 11.30 AM: Managing a pandemic to reduce societal cost
+#### 10.00 AM - 11.15 AM: Managing a pandemic to reduce societal cost
 
-- Aravind Chandrasekhar, Fisher College of Business, OSU: "Food and health for socially underprivileged communities using data from a field experiment at multiple foodbanks." 
 - Anita Carson,  Questrom School of Business, Boston University and Minje Park, Columbia Business School: "Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices."
 - Sebastian Souyris, Rensselaer Polytechnic Institute: "Managing in-person operations in educational institutions during the pandemic: The pivotal role of testing (Opt-in/Opt-out)."
 - Ian Larkin, Anderson School of Management, UCLA: "COVID vaccine mandates and nursing homes safety."
 
-#### 11.30 AM - 1.00 PM: Role of data analytics in healthcare 
+#### 11.15 AM - 12.45 PM: Role of data analytics in healthcare 
 
 - Selvaprabhu Nadarajah, University of Illinois Chicago: "Pathways to NetZero in Healthcare: A Goal-Oriented Valuation Perspective"
 - Pengyi Shi, Purdue University: "Delta Coverage: The Analytics Journey to Implement a Novel Nurse Deployment Solution"
 - Sandeep Rath, Kenan Flagler Business School at UNC: "Data-Driven Surgical Tray Optimization to Improve Operating Room Efficiency"
 - Mili Mehrotra and Xueze Song, University of Illinois: "Analysis of Compensation Contracts for Providers in Clinical Studies"
 
-#### 1.00 PM - 1.30 PM: Lunch
-
-#### 1.30 PM - 2.00 PM: Competition Award Ceremony and Presentations
+#### 12.45 PM - 2.00 PM: Competition Award Ceremony and Presentations (Box Lunch)
 
 - First Prize: **TBD**
 - Second Price: **TBD**
@@ -147,14 +144,14 @@ We have made significant progress from the leads generated from the last year’
 
 #### 3.30 PM - 3.45 PM:	Break
 
-#### 3.45 PM - 5.30 PM: Role of AI and Social Financing on Managing Future Challenges of Healthcare
+#### 3.45 PM - 5.15 PM: Role of AI and Social Financing on Managing Future Challenges of Healthcare
 
 - Andy Allison, Illinois Department of Healthcare and Family Services: "Mainstreaming analytics in Illinois Medicaid"
 - Roopa Foulger, OSF Healthcare: "Unveiling the Data Potential: Personalized and Compassionate care in a Diverse Post-Pandemic World"
 - James Parker, Office of Medicaid Innovation: "Opportunities in Medicaid"
 - Rajesh Rangaswamy, Accenture: **TBD**
 
-#### 5.30 PM - 6.45 PM: Panel Discussion on Healthcare Research of Future 
+#### 5.15 PM - 6.30 PM: Panel Discussion on Healthcare Research of Future 
 
 - Sridhar Seshadri (Moderator), Gies College of Business, University of Illinois
 - Kingshuk K. Sinha, Carson School of Management, University of Minnesota
@@ -164,12 +161,12 @@ We have made significant progress from the leads generated from the last year’
 - Rodney Parker, Kelley School of Business, Indiana University
 - Ian Brooks, School of Information Sciences, University of Illinois
 
-#### 6.45 PM - 7.00 PM: Closing Remarks 
+#### 6.30 PM - 6.45 PM: Closing Remarks 
 
 - Amy Wagoner Johnson, Carle Illinois College of Medicine, University of Illinois
 - Carlos Torelli, Gies College of Business, University of Illinois
 
-#### 7.00 PM - 8.00 PM: Reception Dinner
+#### 7.00 PM - 8.00 PM: Dinner & Networking
 
 For any questions contact Maria Dorofeeva at dorofeev@illinois.edu.
 
