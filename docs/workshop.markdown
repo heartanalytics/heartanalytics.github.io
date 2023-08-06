@@ -124,7 +124,7 @@ We have made significant progress from the leads generated from the last year’
 
 #### 11.15 AM - 12.45 PM: Role of data analytics in healthcare 
 
-- Selvaprabhu Nadarajah, University of Illinois Chicago: "Pathways to NetZero in Healthcare: A Goal-Oriented Valuation Perspective"
+- Selva Nadarajah, University of Illinois Chicago: "Pathways to NetZero in Healthcare: A Goal-Oriented Valuation Perspective"
 - Pengyi Shi, Purdue University: "Delta Coverage: The Analytics Journey to Implement a Novel Nurse Deployment Solution"
 - Sandeep Rath, Kenan Flagler Business School at UNC: "Data-Driven Surgical Tray Optimization to Improve Operating Room Efficiency"
 - Mili Mehrotra and Xueze Song, University of Illinois: "Analysis of Compensation Contracts for Providers in Clinical Studies"
