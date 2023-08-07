@@ -52,7 +52,10 @@ ul, ol {
 {: .center} 
 [**Download booklet of the workshop**](/images/MHC_Program_v2.docx) 
 
-**Venue**: i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
+{: .center} 
+![Alt Text](/images/booklet.jpg)
+
+**Venue**: Chancellor Ballroomm, i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
 
 **Link to last year’s workshop webpage**: [https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference ](https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference ) 
 
@@ -98,7 +101,7 @@ We have made significant progress from the leads generated from the last year’
 
 **Date: August 17, 2023**
 
-**Venue: i-Hotel, Champaign, IL.**
+**Venue: Chancellor Ballroom, i-Hotel, Champaign, IL.**
 
 #### 8.00 AM - 8.30 AM: Breakfast and Registration
 
@@ -167,4 +170,4 @@ We have made significant progress from the leads generated from the last year’
 
 **For any questions contact Maria Dorofeeva atЖ** dorofeev@illinois.edu.
 
-**Primary Organizers**: Dimitri Sumkin, Ujjal Mukherjee, and Sridhar Seshadri
+**Primary Organizers**: Dimitri Sumkin, Ujjal Mukherjee, and Srпшidhar Seshadri
