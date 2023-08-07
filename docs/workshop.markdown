@@ -168,6 +168,6 @@ We have made significant progress from the leads generated from the last year’
 
 #### 7.00 PM - 8.00 PM: Dinner & Networking
 
-**For any questions contact Maria Dorofeeva atЖ** dorofeev@illinois.edu.
+**For any questions contact Maria Dorofeeva at** dorofeev@illinois.edu.
 
 **Primary Organizers**: Dimitri Sumkin, Ujjal Mukherjee, and Srпшidhar Seshadri
