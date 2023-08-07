@@ -149,7 +149,7 @@ We have made significant progress from the leads generated from the last year’
 - Andy Allison, Illinois Department of Healthcare and Family Services: "Mainstreaming analytics in Illinois Medicaid"
 - Roopa Foulger, OSF Healthcare: "Unveiling the Data Potential: Personalized and Compassionate care in a Diverse Post-Pandemic World"
 - James Parker, Office of Medicaid Innovation: "Opportunities in Medicaid"
-- Rajesh Rangaswamy, Accenture: **TBD**
+- Rajesh Rangaswamy, Accenture: "Supply Chain Resiliency for Healthcare"
 
 #### 5.15 PM - 6.30 PM: Panel Discussion on Healthcare Research of Future 
 
