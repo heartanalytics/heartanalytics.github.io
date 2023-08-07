@@ -47,12 +47,12 @@ ul, ol {
 {: .center}
 # & Carle Illinois College of Medicine
 
-
-
 **Theme of the Workshop** - Learnings from COVID-19 and Managing Healthcare beyond COVID with Special Focus towards Social Healthcare Delivery to Underserved Communities.
 
-**Venue**: [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
+{: .center} 
+[**Download booklet of the workshop**](/images/MHC_Program_v2.docx) 
 
+**Venue**: i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
 
 **Link to last year’s workshop webpage**: [https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference ](https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference ) 
 
@@ -60,8 +60,6 @@ ul, ol {
 
 {: .center}
 # <a href="https://forms.illinois.edu/sec/326496156" style="display: inline-block; padding: 10px 20px; background-color: #4C6BF7; color: #FFFFFF; text-decoration: none; border-radius: 5px;">Register</a>
-
-Booklet of the workshop can be wornloaede [here](/images/MHC_Program_v2.docx) 
 
 
 **Background** – This is the third installment of the healthcare conference series we organize with support from Carle Illinois College of Medicine, and the Gies College of Business at UIUC. In the last (second) installment, we focused on the social delivery of healthcare using technological means. The second mid-west healthcare conference was held in August 2022 and was attended by industry experts, academicians from the process and clinical side, and students. The conference provided us with several leads that have resulted in fruitful engagement with OSF, Claro Healthcare, Christie Clinic, SHIELD Illinois, and others on several research projects. We have submitted two rounds of research proposals to OSF Jump Arches for funding opportunities on social healthcare delivery and fairness in healthcare decision-making. We have received funding from OSF to conduct field experiments to evaluate the efficacy of rural health kiosks towards improving assess and awareness of healthcare among the underserved populations. We have completed several research projects with SHIELD Illinois, and we have published several papers in leading journals, and a few others are in progress. We were recently invited by SHIELD Illinois to present insights from our work at the SHIELD Illinois Annual Conference in Chicago held 30-31 of March 2023. We have submitted fresh research proposal to SHIELD Illinois for funding/sponsoring the next round of work on understanding behavioral patterns in epidemic dynamics and implementation of mitigative measures and policies. We believe that we are in an opportune moment to learn from the COVID-19 pandemic and shape the future forms of healthcare systems grounded in the collective experience of going through a pandemic. For this reason, we have chosen the theme of this year’s workshop as: *Learning from COVID-19 and Managing Healthcare Beyond COVID with special focus towards social healthcare delivery to underserved communities*. We conduct the workshop on August 17, 2023. 
