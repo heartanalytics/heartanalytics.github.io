@@ -123,20 +123,23 @@ We have made significant progress from the leads generated from the last year’
 - Sebastian Souyris, Rensselaer Polytechnic Institute: "Managing in-person operations in educational institutions during the pandemic: The pivotal role of testing (Opt-in/Opt-out)."
 - Ian Larkin, Anderson School of Management, UCLA: "COVID vaccine mandates and nursing homes safety."
 
-#### 11.15 AM - 12.45 PM: Role of data analytics in healthcare 
+#### 11.15 - 11.30 AM: Break 
+
+#### 11.30 AM - 1.00 PM: Role of data analytics in healthcare 
 
 - Selva Nadarajah, University of Illinois Chicago: "Pathways to NetZero in Healthcare: A Goal-Oriented Valuation Perspective"
 - Pengyi Shi, Purdue University: "Delta Coverage: The Analytics Journey to Implement a Novel Nurse Deployment Solution"
 - Sandeep Rath, Kenan Flagler Business School at UNC: "Data-Driven Surgical Tray Optimization to Improve Operating Room Efficiency"
 - Mili Mehrotra and Xueze Song, University of Illinois: "Analysis of Compensation Contracts for Providers in Clinical Studies"
 
-#### 12.45 PM - 2.00 PM: Competition Award Ceremony and Presentations (Box Lunch)
+#### 1.00 - 1.30 PM: Lunch
+#### 1.30 PM - 2.15 PM: Competition Award Ceremony and Presentations 
 
 - First Prize: **TBD**
 - Second Price: **TBD**
 - Third Prize: **TBD**
 
-#### 2.00 PM - 3.30 PM: Addressing Challenges in Food and Health Safety
+#### 2.15 PM - 3.30 PM: Addressing Challenges in Food and Health Safety
 
 - Iva Rashkova, Washington University in St Louis: "Budget Allocations for Public Health Procurement"
 - Yi Tang, University of Minnesota - Twin Cities: "Designing a Mental Health Service Recommender System: Sensing and Responding to the Personalized Support Needs and Advancing Equity in Mental Healthcare Delivery."
