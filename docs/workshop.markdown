@@ -170,4 +170,4 @@ We have made significant progress from the leads generated from the last year’
 
 **For any questions contact Maria Dorofeeva at** dorofeev@illinois.edu.
 
-**Primary Organizers**: Dimitri Sumkin, Ujjal Mukherjee, and Srпшidhar Seshadri
+**Primary Organizers**: Dimitri Sumkin, Ujjal Mukherjee, and Sridhar Seshadri
