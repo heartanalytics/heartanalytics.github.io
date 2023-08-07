@@ -135,7 +135,6 @@ We have made significant progress from the leads generated from the last year’
 
 #### 2.00 PM - 3.30 PM: Addressing Challenges in Food and Health Safety
 
-- Susan Lu, Purdue University: **TBD**
 - Iva Rashkova, Washington University in St Louis: "Budget Allocations for Public Health Procurement"
 - Yi Tang, University of Minnesota - Twin Cities: "Designing a Mental Health Service Recommender System: Sensing and Responding to the Personalized Support Needs and Advancing Equity in Mental Healthcare Delivery."
 - Bhupinder Juneja, Carlson School of Management, University of Minnesota: "Enabling the last-mile administration of vaccines, equitably: a county-level analysis."
@@ -166,6 +165,6 @@ We have made significant progress from the leads generated from the last year’
 
 #### 7.00 PM - 8.00 PM: Dinner & Networking
 
-For any questions contact Maria Dorofeeva at dorofeev@illinois.edu.
+**For any questions contact Maria Dorofeeva atЖ** dorofeev@illinois.edu.
 
 **Primary Organizers**: Dimitri Sumkin, Ujjal Mukherjee, and Sridhar Seshadri
