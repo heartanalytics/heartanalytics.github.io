@@ -50,8 +50,6 @@ ul, ol {
 **Theme of the Workshop** - Learnings from COVID-19 and Managing Healthcare beyond COVID with Special Focus towards Social Healthcare Delivery to Underserved Communities.
 
 {: .center} 
-[**Download booklet of the workshop**](/images/MHC_Program_v2.docx) 
-
 [**Download booklet of the workshop**](/images/MHC_Program_v3.pdf) 
 
 {: .center} 
