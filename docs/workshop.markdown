@@ -52,6 +52,8 @@ ul, ol {
 {: .center} 
 [**Download booklet of the workshop**](/images/MHC_Program_v2.docx) 
 
+[**Download booklet of the workshop**](/images/MHC_Program_v3.pdf) 
+
 {: .center} 
 ![Alt Text](/images/booklet.jpg)
 
