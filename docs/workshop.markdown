@@ -111,48 +111,47 @@ We have made significant progress from the leads generated from the last year’
 - Dean --- Gies College of Business, University of Illinois
 - Dean --- Carle Illinois College of Medicine, University of Illinois & Carle Health
 
-#### 9.00 AM - 9.45 AM: Key Note Address 
-
-- Sameer Vohra and Arti Barnes, Illinois Department of Public Health: "Challenges of Healthcare Delivery to a Diverse Population post COVID-19."
-
-#### 9.45 AM - 10.00 AM: Break 
-
-#### 10.00 AM - 11.15 AM: Managing a pandemic to reduce societal cost
+#### 9.00 AM - 10.15 AM: Managing a pandemic to reduce societal cost
 
 - Anita Carson,  Questrom School of Business, Boston University and Minje Park, Columbia Business School: "Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices."
 - Sebastian Souyris, Rensselaer Polytechnic Institute: "Managing in-person operations in educational institutions during the pandemic: The pivotal role of testing (Opt-in/Opt-out)."
 - Ian Larkin, Anderson School of Management, UCLA: "COVID vaccine mandates and nursing homes safety."
 
-#### 11.15 - 11.30 AM: Break 
+#### 10.15 - 10.30 AM: Break 
 
-#### 11.30 AM - 1.00 PM: Role of data analytics in healthcare 
+#### 10.30 AM - 12.00 PM: Role of data analytics in healthcare 
 
 - Selva Nadarajah, University of Illinois Chicago: "Pathways to NetZero in Healthcare: A Goal-Oriented Valuation Perspective"
 - Pengyi Shi, Purdue University: "Delta Coverage: The Analytics Journey to Implement a Novel Nurse Deployment Solution"
 - Sandeep Rath, Kenan Flagler Business School at UNC: "Data-Driven Surgical Tray Optimization to Improve Operating Room Efficiency"
 - Mili Mehrotra and Xueze Song, University of Illinois: "Analysis of Compensation Contracts for Providers in Clinical Studies"
 
-#### 1.00 - 1.30 PM: Lunch
-#### 1.30 PM - 2.15 PM: Competition Award Ceremony and Presentations 
+#### 12.00 - 12.30 PM: Lunch
+#### 12.30 PM - 1.15 PM: Competition Award Ceremony and Presentations 
 
 - First Prize: **TBD**
 - Second Price: **TBD**
 - Third Prize: **TBD**
 
-#### 2.15 PM - 3.30 PM: Addressing Challenges in Food and Health Safety
+#### 1.15 PM - 2.30 PM: Addressing Challenges in Food and Health Safety
 
 - Iva Rashkova, Washington University in St Louis: "Budget Allocations for Public Health Procurement"
 - Yi Tang, University of Minnesota - Twin Cities: "Designing a Mental Health Service Recommender System: Sensing and Responding to the Personalized Support Needs and Advancing Equity in Mental Healthcare Delivery."
 - Bhupinder Juneja, Carlson School of Management, University of Minnesota: "Enabling the last-mile administration of vaccines, equitably: a county-level analysis."
 
-#### 3.30 PM - 3.45 PM:	Break
+#### 2.30 PM - 3.15 PM:	**Keynote Address**
+- Sameer Vohra and Arti Barnes, Illinois Department of Public Health: "Challenges of Healthcare Delivery to a Diverse Population post COVID-19."
 
-#### 3.45 PM - 5.15 PM: Role of AI and Social Financing on Managing Future Challenges of Healthcare
+#### 3.15 PM - 3.30 PM:	Break
+
+#### 3.30 PM - 5.00 PM: Role of AI and Social Financing on Managing Future Challenges of Healthcare
 
 - Andy Allison, Illinois Department of Healthcare and Family Services: "Mainstreaming analytics in Illinois Medicaid"
 - Roopa Foulger, OSF Healthcare: "Unveiling the Data Potential: Personalized and Compassionate care in a Diverse Post-Pandemic World"
 - James Parker, Office of Medicaid Innovation: "Opportunities in Medicaid"
 - Rajesh Rangaswamy, Accenture: "Supply Chain Resiliency for Healthcare"
+
+#### 5.00 PM - 5.15 PM:	Break
 
 #### 5.15 PM - 6.30 PM: Panel Discussion on Healthcare Research of Future 
 
