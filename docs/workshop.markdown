@@ -50,10 +50,10 @@ ul, ol {
 **Theme of the Workshop** - Learnings from COVID-19 and Managing Healthcare beyond COVID with Special Focus towards Social Healthcare Delivery to Underserved Communities.
 
 {: .center} 
-[**Download booklet of the workshop**](/images/MHC_Program_v3.pdf) 
+[**Download booklet of the workshop**](/images/MHC_Program_v4.pdf) 
 
 {: .center} 
-![Alt Text](/images/QR_code_MHC_booklet_v2.jpg)
+![Alt Text](/images/QR_code_MHC_booklet.jpg)
 
 **Venue**: Chancellor Ballroomm, i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
 
