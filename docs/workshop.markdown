@@ -53,7 +53,7 @@ ul, ol {
 [**Download booklet of the workshop**](/images/MHC_Program_v3.pdf) 
 
 {: .center} 
-![Alt Text](/images/QR_code_MHC_booklet.jpg)
+![Alt Text](/images/QR_code_MHC_booklet_v2.jpg)
 
 **Venue**: Chancellor Ballroomm, i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
 
@@ -140,7 +140,7 @@ We have made significant progress from the leads generated from the last year’
 - Bhupinder Juneja, Carlson School of Management, University of Minnesota: "Enabling the last-mile administration of vaccines, equitably: a county-level analysis."
 
 #### 2.30 PM - 3.15 PM:	**Keynote Address**
-- Sameer Vohra and Arti Barnes, Illinois Department of Public Health: "Challenges of Healthcare Delivery to a Diverse Population post COVID-19."
+- Sameer Vohra and Arti Barnes, Illinois Department of Public Health: "Dollars and Disease:  The Business Argument for Investing in Public Health."
 
 #### 3.15 PM - 3.30 PM:	Break
 
