@@ -55,7 +55,7 @@ ul, ol {
 {: .center} 
 ![Alt Text](/images/QR_code_MHC_booklet_v2.jpg)
 
-**Venue**: Chancellor Ballroomm, i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
+**Venue**: Chancellor Ballroom, i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
 
 **Link to last year’s workshop webpage**: [https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference ](https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference ) 
 
