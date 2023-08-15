@@ -53,7 +53,7 @@ ul, ol {
 [**Download booklet of the workshop**](/images/MHC_Program_v4.pdf) 
 
 {: .center} 
-![Alt Text](/images/QR_code_MHC_booklet.jpg)
+![Alt Text](/images/QR_code_MHC_booklet_v2.jpg)
 
 **Venue**: Chancellor Ballroomm, i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
 
