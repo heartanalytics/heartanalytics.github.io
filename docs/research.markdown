@@ -5,6 +5,16 @@ permalink: /research/
 #order: 3
 ---
 
+# Grants 
+
+1. Seshadri, S., Mukherjee, U.K., Pappu, S., & Molitor, D. (2024). *Digital Healthcare Collaboratory 
+Establishment*. Gies Health Initiative, Gies College of Business, University of Illinois Urbana-Champaign.
+
+This proposal seeks to establish a multi-disciplinary Digital Healthcare Collaboratory to foster research and innovation in digital healthcare technologies, particularly for rural and underserved communities. The project has been awarded $349,950 in seed funding.
+
+
+
+
 # Algorithms for Healthcare
 1. [Hotspots for Emerging Epidemics: Multi-Task and Transfer Learning over Mobility Networks](https://github.com/heart-analytics/COVID19-Hotspots)
 1. [Control Of Epidemic Spreads Via Testing And Lock-Down](https://github.com/heart-analytics/COVID19-TestingAndLockDown)
