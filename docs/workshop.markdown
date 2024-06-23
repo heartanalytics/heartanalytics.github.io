@@ -35,6 +35,101 @@ ul, ol {
 }
 </style>
 
+## Current Events 
+
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+  }
+  .header {
+    background-color: #0056b3; /* University of Illinois colors */
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  .content {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f8f9fa; /* Light grey background */
+  }
+  .footer {
+  /*  background-color: #333; */
+  /*  color: white; */
+    padding: 10px;
+    text-align: center;
+  }
+  .button {
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+  /* background-color: #4CAF50; /* Green */
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+  }
+</style>
+
+{: .center}
+## <a href="https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference">Midwest Healthcare Conference, 2024</a> 
+
+{: .center}
+# Digital Technology and AI Enabled Healthcare Delivery to Diverse Patient Populations
+
+<div class="content">
+  <p><em>Join Gies College of Business and Carle Illinois College of Medicine for the <a href="https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference">Midwest Healthcare Conference 2024</a> on August 23, focusing on "Digital Technology and AI Enabled Healthcare Delivery to Diverse Patient Populations." This is sure to be an exciting event dedicated to exploring the transformative potential of digital technology and artificial intelligence in healthcare.</em></p>
+
+  <h3>Event Details:</h3>
+  <ul>
+    <li><strong>Date:</strong> August 23, 2024</li>
+    <li><strong>Location:</strong> Hilton Garden Inn, 1501 S Neil St, Champaign, IL 61820</li>
+    <li><strong>Registration Deadline:</strong> August 2, 2024</li>
+  </ul>
+
+  <h3>Why Attend?</h3>
+  <ul>
+    <li>Explore advancements in digital health and AI.</li>
+    <li>Learn from industry experts.</li>
+    <li>Network with healthcare professionals.</li>
+    <li>Discover real-world applications improving patient care and operational efficiency.</li>
+  </ul>
+
+  <h3>Key Topics:</h3>
+  <ul>
+    <li>Remote Monitoring Devices & Wearables</li>
+    <li>Telemedicine & Telehealth</li>
+    <li>AI in Diagnostics and Personalized Treatment</li>
+    <li>Remote Patient Monitoring & Home Hospital Applications</li>
+    <li>AI in Drug Discovery and Development</li>
+    <li>Healthcare Chatbots & Virtual Assistants</li>
+    <li>Clinical Decision Support and Predictive Analytics</li>
+    <li>Robot-Assisted Surgery</li>
+  </ul>
+
+  <p><a href="https://forms.illinois.edu/sec/326496156" class="button">Register Now!</a></p>
+  <p>More information including event agenda coming soon. Please contact <a href="mailto:dorofeev@illinois.edu"><strong>Maria Dorofeeva</strong></a> with any questions.</p>
+  
+  <p>We look forward to collaborating with you in shaping the future of healthcare!</p>
+</div>
+
+<div class="footer">
+  <p>Follow us on social media:<br>
+  <a href="https://www.facebook.com/giesbusiness/">Facebook</a> | 
+  <a href="https://www.instagram.com/giesbusiness/">Instagram</a> | 
+  <a href="https://www.linkedin.com/school/15102067/">LinkedIn</a> | 
+  <a href="https://twitter.com/giesbusiness">Twitter</a> | 
+  <a href="http://www.youtube.com/user/illinoisbusiness">YouTube</a></p>
+  <p>Gies College of Business<br>
+  University of Illinois<br>
+  515 East Gregory Drive | Champaign, IL 61820<br>
+  Phone: 217-300-7327</p>
+</div>
+
+
+
+## Past Events
+
 {: .center}
 # Midwest Healthcare Workshop
 
