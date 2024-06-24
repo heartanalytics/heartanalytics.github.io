@@ -10,8 +10,7 @@ permalink: /research/
 1. Seshadri, S., Mukherjee, U.K., Pappu, S., & Molitor, D. (2024). *Digital Healthcare Collaboratory 
 Establishment*. Gies Health Initiative, Gies College of Business, University of Illinois Urbana-Champaign.
 
-This proposal seeks to establish a multi-disciplinary Digital Healthcare Collaboratory to foster research and innovation in digital healthcare technologies, particularly for rural and underserved communities. The project has been awarded $349,950 in seed funding.
-
+This proposal seeks to establish a multi-disciplinary Digital Healthcare Collaboratory to foster research and innovation in digital healthcare technologies, particularly for rural and underserved communities. 
 
 
 
