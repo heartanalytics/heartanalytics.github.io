@@ -36,6 +36,97 @@ ul, ol {
 </style>
 
 {: .center}
+# Midwest Healthcare Management Conference  
+{: .center}
+# August 22, 2025  
+{: .center}
+# I Hotel & Illinois Conference Center, Champaign, IL  
+{: .center}
+# Co-sponsored by [Gies College of Business](https://giesbusiness.illinois.edu/home) & [Carle Illinois College of Medicine](https://medicine.illinois.edu/?source=adwords&utm_source=search&utm_medium=stratcom&utm_campaign=general-recruitmentAY24-25&gad_source=1&gad_campaignid=22186228683&gbraid=0AAAAADKbhPQ4WDNEwaWkbHLkiTBeBLMOx&gclid=CjwKCAjwruXBBhArEiwACBRtHT-SFLRfOQ14-jL5yMagtBh4Z-yP8dKewKHmvxuqGKA44nC-MgT31xoCbc4QAvD_BwE)  
+
+**Join the Conversation**  
+This year’s conference will explore how to improve healthcare access across all settings—from primary and preventive care to emergency and inpatient services.
+
+**Key topics include:**  
+- The role of policy and payment models in shaping equity  
+- How technology and AI are transforming care delivery  
+- Real-world strategies to close access gaps in rural and underserved communities  
+
+The goal is to unite policy, operations, technology, and economics to create **actionable solutions** that make healthcare more **accessible, affordable, and effective**.
+
+[**Register Today**](https://forms.illinois.edu/sec/1009141807?referrer=https://forms.illinois.edu/chooseAuth/1009141807)  
+[**View Agenda**](https://giesbusiness.illinois.edu/docs/default-source/default-document-library/events/midwest-healthcare-management-conference-agenda.pdf)
+
+---
+
+### Providing Healthcare Access to a Diverse Population
+
+Access to quality healthcare in the U.S. remains unequal. Low-income, minority, and rural populations face worse health outcomes due to systemic barriers like insurance access, infrastructure, housing, education, and employment.
+
+Solving these requires coordinated efforts across **policy, operations, and technology**.
+
+---
+
+### Dr. Bot Data Challenge
+
+Participants will build large language models (LLMs) to respond accurately and empathetically to real-world medical questions.
+
+**Who can participate:** Anyone from the UIUC community  
+**Rewards:**  
+- 🥇 $1500 + oral presentation + co-authorship on peer-reviewed paper  
+- 🥈 $500  
+- 🥉 $250  
+
+[**Register your team**](https://erenahsen.com/competitions/fifth-midwest-healthcare-conference-dr-bot-challenge/)
+
+---
+
+### Poster Competition
+
+We invite undergraduate, graduate, and professional students to showcase work via poster session. Projects may cover:
+
+- Clinical care  
+- Health equity  
+- Machine learning in medicine  
+- Hospital operations and more  
+
+**Abstract Deadline:** August 15, 2025  
+[**Submit Abstract**](https://docs.google.com/forms/d/e/1FAIpQLSfBR3Y1oABubW-TQVCTWHj4Ew5IB4g_NMRgRipxXNBtk9NQtQ/viewform)
+
+---
+
+### Research-Backed Strategies
+
+A recent review in *Foundations and Trends in Technology, Information and Operations Management* highlights healthcare operations management as key to equity and access through:
+
+- Patient flow optimization  
+- Capacity and inventory management  
+- Resource allocation  
+
+[**Explore Related Articles**](https://www.nowpublishers.com/TOM/special-issues/TOMV19N2-3)
+
+---
+
+### Celebrating 5 Years of Collaboration
+
+The 2025 conference marks the **fifth annual Midwest Healthcare event**, co-hosted by Gies College of Business and Carle Illinois College of Medicine — uniting thought leaders in:
+
+- Policy  
+- Technology  
+- Operations  
+- Economics  
+
+[**Explore Past Agendas**](https://giesbusiness.illinois.edu/docs/default-source/default-document-library/events/2024-midwest-healthcare-management-conference-info-and-agenda.pdf?sfvrsn=bfc9128c_1)
+
+
+---
+
+{: .center}
+# Past Workshops
+
+---
+
+{: .center}
 # Midwest Healthcare Workshop
 
 {: .center}
