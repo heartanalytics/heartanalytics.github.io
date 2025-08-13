@@ -5,6 +5,8 @@ permalink: /research/
 #order: 3
 ---
 
+
+
 # Algorithms for Healthcare
 1. [Hotspots for Emerging Epidemics: Multi-Task and Transfer Learning over Mobility Networks](https://github.com/heart-analytics/COVID19-Hotspots)
 1. [Control Of Epidemic Spreads Via Testing And Lock-Down](https://github.com/heart-analytics/COVID19-TestingAndLockDown)
@@ -24,15 +26,16 @@ permalink: /research/
 - [Evaluation of reopening strategies for educational institutions during COVID-19 through agent based simulation](https://github.com/heart-analytics/COVID19-Reopening)
 - [Not All COVID-19 Waves are Similar: Origins, Detection and Mitigation Strategies for Simultaneous Waves](https://github.com/heart-analytics/COVID19-India)
 - How SHIELD Illinois can help keep educational institutions open amid COVID-19: An econometric and epidemiologic analysis of ‘Test-to-stay’ program
-- Jiang, Z. Z., Silberholz, J., Wang, Y. I., Costa, D., & Sjoding, M. (2022). Can Employees' Past Helping Behavior Be Used to Improve Shift Scheduling? Evidence from ICU Nurses. Evidence from ICU Nurses (February 14, 2022). 
-- Xueze Song, Mili Mehrotra, Tharanga Rajapakshe, “An Analysis of Incentive Schemes for Participant Retention in Clinical Studies,” MSOM, Article in Advance, 2022, Available at https://doi.org/10.1287/msom.2022.1184.
-- Diwakar Gupta, Mili Mehrotra, Xiaoxu Tang, “Gainsharing Contracts for CMS’ Episode-
-Based Payment Models,” POM, Vol. 30, No. 5, May 2021, pp. 290-1312.
-- Mili Mehrotra, Karthik Natarajan, “Value of Combining Patient and Provider Incentives in Humanitarian Healthcare Service Programs,” POM, Vol. 29, No. 3, March 2020, pp. 571-594.
-- Diwakar Gupta, Mili Mehrotra, “Bundling Payments for Healthcare Services: Proposer Selection and Information Sharing,” Operations Research, Vol. 63, No. 4, July 2015, pp. 772-788.
-
-
-
+- Ivanov, Anton, Ujjal Kumar Mukherjee, Subhonmesh Bose, Sridhar Seshadri, Ronald Watkins, Albert Charles England, Jacqueline Suriano, Mehmet Eren Ahsen, and Sebastian Souyris. *COVID-19 test-to-stay program for K-12 schools: Opt-in versus opt-out consent model.* Iscience 27, no. 1 (2024).
+- Ivanov, A., Tacheva, Z., Alzaidan, A., Souyris, S., & England III, A. C. (2023). *Informational value of visual nudges during crises: Improving public health outcomes through social media engagement amid COVID‐19.* Production and Operations Management, 32(8), 2400-2419. 
+- Tacheva, Z., & Ivanov, A. (2021). *Exploring the association between the “Big Five” personality traits and fatal opioid overdose: County-level empirical analysis.* JMIR mental health, 8(3), e24939. 
+- Lin, Y. W., Ivanov, A., Chang, H. L., & Shaw, M. J. (2021). *Role of Telehealth Adoption in Shaping Perceived Quality of Care: Empirical Analysis.* 
+- Jiang, Z. Z., Silberholz, J., Wang, Y. I., Costa, D., & Sjoding, M. (2022). *Can Employees' Past Helping Behavior Be Used to Improve Shift Scheduling? Evidence from ICU Nurses. Evidence from ICU Nurses* (February 14, 2022). 
+- Xueze Song, Mili Mehrotra, Tharanga Rajapakshe, *An Analysis of Incentive Schemes for Participant Retention in Clinical Studies,* MSOM, Article in Advance, 2022, Available at https://doi.org/10.1287/msom.2022.1184.
+- Diwakar Gupta, Mili Mehrotra, Xiaoxu Tang, *Gainsharing Contracts for CMS’ Episode-Based Payment Models,* POM, Vol. 30, No. 5, May 2021, pp. 290-1312.
+- Mili Mehrotra, Karthik Natarajan, *Value of Combining Patient and Provider Incentives in Humanitarian Healthcare Service Programs,* POM, Vol. 29, No. 3, March 2020, pp. 571-594.
+- Diwakar Gupta, Mili Mehrotra, *Bundling Payments for Healthcare Services: Proposer Selection and Information Sharing,* Operations Research, Vol. 63, No. 4, July 2015, pp. 772-788.
+- Seshadri, S., Moshref-Javadi, M., Mukherjee, U. K., & Sumkin, D. (Eds.). (2024). *Lessons from the Pandemic for Healthcare Operations.* Foundations and Trends® in Technology, Information and Operations. Now Publishers Inc.
 
 
 # Machine Learning
