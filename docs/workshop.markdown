@@ -91,66 +91,52 @@ This year’s conference will explore how to improve healthcare access across al
 The goal is to unite policy, operations, technology, and economics to create **actionable solutions** that make healthcare more **accessible, affordable, and effective**.
 
 [**Register Today**](https://forms.illinois.edu/sec/1009141807?referrer=https://forms.illinois.edu/chooseAuth/1009141807)  
-[**View Agenda**](https://giesbusiness.illinois.edu/docs/default-source/default-document-library/events/midwest-healthcare-management-conference-agenda.pdf)
+
 
 ---
 
-### Providing Healthcare Access to a Diverse Population
+### Providing healthcare access to a diverse population
 
 Access to quality healthcare in the U.S. remains unequal. Low-income, minority, and rural populations face worse health outcomes due to systemic barriers like insurance access, infrastructure, housing, education, and employment.
 
-Solving these requires coordinated efforts across **policy, operations, and technology**.
+These disparities are driven by structural barriers like lack of insurance and limited healthcare infrastructure, along with broader social factors such as housing, education, and employment. Solving these challenges requires a coordinated effort across multiple sectors across policy, operations, and technology.
+
+[**View Agenda**](https://giesbusiness.illinois.edu/docs/default-source/default-document-library/events/midwest-healthcare-management-conference-agenda.pdf)
 
 ---
 
 ### Dr. Bot Data Challenge
 
-Participants will build large language models (LLMs) to respond accurately and empathetically to real-world medical questions.
+As part of the conference, we are excited to host a data challenge that invites participants to push the frontiers of large language model (LLM) development in service of a critical mission: improving how AI understands and responds to real-world medical questions. The competition invites participants (anyone from the UIUC community) to develop LLMs specifically trained to respond to patient-initiated clinical questions with clarity, accuracy, and contextual sensitivity.
 
-**Who can participate:** Anyone from the UIUC community  
-**Rewards:**  
-- 🥇 $1500 + oral presentation + co-authorship on peer-reviewed paper  
-- 🥈 $500  
-- 🥉 $250  
+The top three teams will be invited to join the organizing team as co-authors on a planned peer-reviewed publication, and will be invited to give an oral presentation at the conference. Additionally, the top three teams will earn cash awards: the first-place team will earn $1500, the second-place team will get $500, and the third-place team will receive $250.
 
 [**Register your team**](https://erenahsen.com/competitions/fifth-midwest-healthcare-conference-dr-bot-challenge/)
 
 ---
 
-### Poster Competition
+### Poster Competition: Share your work!
 
-We invite undergraduate, graduate, and professional students to showcase work via poster session. Projects may cover:
+We invite undergraduate, graduate, and professional students with active or recently completed projects to present their work in our Poster Session. The posters need not be limited to the conference session topics, and can be focused on other topics of interest in healthcare, including clinical aspects of healthcare. 
 
-- Clinical care  
-- Health equity  
-- Machine learning in medicine  
-- Hospital operations and more  
+Whether you're exploring machine learning for clinical prediction, evaluating hospital throughput strategies, designing patient-centered systems, or analyzing health equity—this is your chance to showcase your insights! The deadline to submit an abstract is August 15, 2025.
 
-**Abstract Deadline:** August 15, 2025  
+
 [**Submit Abstract**](https://docs.google.com/forms/d/e/1FAIpQLSfBR3Y1oABubW-TQVCTWHj4Ew5IB4g_NMRgRipxXNBtk9NQtQ/viewform)
 
 ---
 
-### Research-Backed Strategies
+### Research-backed strategies to expand access
 
-A recent review in *Foundations and Trends in Technology, Information and Operations Management* highlights healthcare operations management as key to equity and access through:
-
-- Patient flow optimization  
-- Capacity and inventory management  
-- Resource allocation  
+A recent comprehensive review published in Foundations and Trends in Technology, Information and Operations Management highlights the critical role healthcare operations management plays in improving outcomes and access. The paper synthesizes two decades of research and identifies operational strategies such as improved patient flow, capacity management, and equitable resource allocation as key levers for making healthcare systems more effective and inclusive.
 
 [**Explore Related Articles**](https://www.nowpublishers.com/TOM/special-issues/TOMV19N2-3)
 
 ---
 
-### Celebrating 5 Years of Collaboration
+### Five years of forward-thinking healthcare solutions
 
-The 2025 conference marks the **fifth annual Midwest Healthcare event**, co-hosted by Gies College of Business and Carle Illinois College of Medicine — uniting thought leaders in:
-
-- Policy  
-- Technology  
-- Operations  
-- Economics  
+Building on a proud tradition of collaboration, the 2025 Midwest Healthcare Conference marks our fifth event as a joint initiative of Gies College of Business and the Carle Illinois College of Medicine. Our partnership brings together unique perspectives in policy, operations, technology, and economics to deliver actionable insights that transform healthcare access and delivery.
 
 [**Explore Past Agendas**](https://giesbusiness.illinois.edu/docs/default-source/default-document-library/events/2024-midwest-healthcare-management-conference-info-and-agenda.pdf?sfvrsn=bfc9128c_1)
 
