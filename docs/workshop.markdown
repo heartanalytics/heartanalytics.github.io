@@ -77,8 +77,6 @@ ul, ol {
 
 {: .center}
 # August 22, 2025  
-{: .center}
-# I Hotel & Illinois Conference Center, Champaign, IL  
 
 {: .center}
 # Co-sponsored by [Gies College of Business](https://giesbusiness.illinois.edu/home) 
