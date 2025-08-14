@@ -81,14 +81,13 @@ ul, ol {
 # Co-sponsored by [Gies College of Business](https://giesbusiness.illinois.edu/home) & [Carle Illinois College of Medicine](https://medicine.illinois.edu/?source=adwords&utm_source=search&utm_medium=stratcom&utm_campaign=general-recruitmentAY24-25&gad_source=1&gad_campaignid=22186228683&gbraid=0AAAAADKbhPQ4WDNEwaWkbHLkiTBeBLMOx&gclid=CjwKCAjwruXBBhArEiwACBRtHT-SFLRfOQ14-jL5yMagtBh4Z-yP8dKewKHmvxuqGKA44nC-MgT31xoCbc4QAvD_BwE)  
 
 **Join the Conversation**  
-This year’s conference will explore how to improve healthcare access across all settings—from primary and preventive care to emergency and inpatient services.
+This year’s conference will explore how to improve healthcare access across all settings—from primary and preventive care to emergency and inpatient services. Key sessions will examine:
 
-**Key topics include:**  
 - The role of policy and payment models in shaping equity  
 - How technology and AI are transforming care delivery  
 - Real-world strategies to close access gaps in rural and underserved communities  
 
-The goal is to unite policy, operations, technology, and economics to create **actionable solutions** that make healthcare more **accessible, affordable, and effective**.
+By bringing together perspectives from policy, operations, technology, and economics, the conference aims to drive actionable solutions that make healthcare more accessible, affordable, and effective for all.
 
 [**Register Today**](https://forms.illinois.edu/sec/1009141807?referrer=https://forms.illinois.edu/chooseAuth/1009141807)  
 
