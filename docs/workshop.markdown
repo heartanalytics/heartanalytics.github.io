@@ -72,7 +72,9 @@ ul, ol {
 </style>
 
 {: .center}
-# Midwest Healthcare Management Conference  
+# <a href="https://giesbusiness.illinois.edu/landing-pages/midwest-healthcare-management-conference">Midwest Healthcare Management Conference</a> 
+
+
 {: .center}
 # August 22, 2025  
 {: .center}
@@ -149,7 +151,7 @@ Building on a proud tradition of collaboration, the 2025 Midwest Healthcare Conf
 
 
 {: .center}
-## <a href="https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference">Midwest Healthcare Conference, 2024</a> 
+# <a href="https://giesbusiness.illinois.edu/upcoming/midwest-healthcare-management-conference">Midwest Healthcare Conference, 2024</a> 
 
 {: .center}
 # Digital Technology and AI Enabled Healthcare Delivery to Diverse Patient Populations
