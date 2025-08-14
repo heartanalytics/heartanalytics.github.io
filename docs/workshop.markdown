@@ -79,8 +79,12 @@ ul, ol {
 # August 22, 2025  
 {: .center}
 # I Hotel & Illinois Conference Center, Champaign, IL  
+
 {: .center}
-# Co-sponsored by [Gies College of Business](https://giesbusiness.illinois.edu/home) & [Carle Illinois College of Medicine](https://medicine.illinois.edu/?source=adwords&utm_source=search&utm_medium=stratcom&utm_campaign=general-recruitmentAY24-25&gad_source=1&gad_campaignid=22186228683&gbraid=0AAAAADKbhPQ4WDNEwaWkbHLkiTBeBLMOx&gclid=CjwKCAjwruXBBhArEiwACBRtHT-SFLRfOQ14-jL5yMagtBh4Z-yP8dKewKHmvxuqGKA44nC-MgT31xoCbc4QAvD_BwE)  
+# Co-sponsored by [Gies College of Business](https://giesbusiness.illinois.edu/home) 
+
+{: .center}
+# & [Carle Illinois College of Medicine](https://medicine.illinois.edu/?source=adwords&utm_source=search&utm_medium=stratcom&utm_campaign=general-recruitmentAY24-25&gad_source=1&gad_campaignid=22186228683&gbraid=0AAAAADKbhPQ4WDNEwaWkbHLkiTBeBLMOx&gclid=CjwKCAjwruXBBhArEiwACBRtHT-SFLRfOQ14-jL5yMagtBh4Z-yP8dKewKHmvxuqGKA44nC-MgT31xoCbc4QAvD_BwE)  
 
 **Join the Conversation**  
 This year’s conference will explore how to improve healthcare access across all settings—from primary and preventive care to emergency and inpatient services. Key sessions will examine:
